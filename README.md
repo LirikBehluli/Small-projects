@@ -1,4 +1,4 @@
-# Small project: Substances Chatbot
+# Substances Chatbot
 Python program (.ipynb) which utilizes a chatbot which takes as input the name of any substance and provides back all the necessary information (dosage, side effects, etc.) from Wikipedia.
 The program can run in Jupyter Notebook, and the only pre-requirement is to install Wikipedia module beforehand.
 The program runs quickly and gives the information feedback rather quickly.
